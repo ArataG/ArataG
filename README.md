@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm ArataG👋
+
+![GitHubStats](https://github-readme-stats.vercel.app/api?username=ArataG&count_private=true&theme=vue-dark&show_icons=true)
 
 <!--
 **ArataG/ArataG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
