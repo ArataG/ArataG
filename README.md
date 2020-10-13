@@ -2,6 +2,7 @@
 
 ![GitHubStats](https://github-readme-stats.vercel.app/api?username=ArataG&count_private=true&theme=vue-dark&show_icons=true)
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ArataG&theme=vue-dark&layout=compact)
 <!--
 **ArataG/ArataG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
